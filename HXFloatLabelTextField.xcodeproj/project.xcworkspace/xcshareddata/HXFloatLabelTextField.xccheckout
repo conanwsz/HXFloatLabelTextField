@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>21A276B3-D3A0-404D-AEA8-69C95606D8FB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HXFloatLabelTextField</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5dfe5395-8e91-4e0a-9e59-b2a1579611d4++5326</key>
+		<string>http://10.0.12.220/repos/ios</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Mall/trunk/src/HXFloatLabelTextField/HXFloatLabelTextField.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5dfe5395-8e91-4e0a-9e59-b2a1579611d4++5326</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>5dfe5395-8e91-4e0a-9e59-b2a1579611d4++5326</key>
+		<string>http://10.0.12.220/repos</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://10.0.12.220/repos/ios/Mall/trunk/src/HXFloatLabelTextField/HXFloatLabelTextField.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5dfe5395-8e91-4e0a-9e59-b2a1579611d4++5326</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5dfe5395-8e91-4e0a-9e59-b2a1579611d4++5326</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
